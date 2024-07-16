@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="shaw_mark" data-name="shaw mark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 592.64 592.64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c2272d;
+      }
+
+      .cls-2 {
+        fill: #d1d3d4;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="222.24 370.4 148.16 444.48 0 296.32 296.32 0 370.4 74.08 148.16 296.32 222.24 370.4"/>
+  <polygon class="cls-2" points="592.64 296.32 296.32 592.64 222.24 518.56 444.48 296.32 370.4 222.24 444.48 148.16 592.64 296.32"/>
+</svg>
